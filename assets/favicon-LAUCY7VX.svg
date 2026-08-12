@@ -1,0 +1,53 @@
+<!-- 삼국지 무역전쟁 파비콘 - 중국 전통 화폐 모티브 -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- 동전 외곽 -->
+  <circle cx="16" cy="16" r="15" fill="#B8860B" stroke="#8B7355" stroke-width="1"/>
+  
+  <!-- 동전 내부 원형 -->
+  <circle cx="16" cy="16" r="12" fill="#DAA520" stroke="#B8860B" stroke-width="0.5"/>
+  
+  <!-- 중앙 사각형 구멍 -->
+  <rect x="12" y="12" width="8" height="8" fill="#2D1810" stroke="#1A0F08" stroke-width="0.5"/>
+  
+  <!-- 상단 한자 "商" (상업) 스타일화 -->
+  <g fill="#8B4513" font-family="serif" font-size="4" font-weight="bold" text-anchor="middle">
+    <!-- 상단 장식 문자 -->
+    <rect x="14.5" y="5" width="3" height="1" fill="#8B4513"/>
+    <rect x="15" y="6" width="2" height="1" fill="#8B4513"/>
+    <rect x="14" y="7" width="4" height="0.5" fill="#8B4513"/>
+    <rect x="15.5" y="8" width="1" height="2" fill="#8B4513"/>
+  </g>
+  
+  <!-- 하단 한자 "財" (재물) 스타일화 -->
+  <g fill="#8B4513">
+    <rect x="14.5" y="22" width="3" height="1" fill="#8B4513"/>
+    <rect x="15" y="23" width="2" height="1" fill="#8B4513"/>
+    <rect x="14" y="24" width="4" height="0.5" fill="#8B4513"/>
+    <rect x="15.5" y="25" width="1" height="2" fill="#8B4513"/>
+  </g>
+  
+  <!-- 좌측 장식 문양 -->
+  <g fill="#8B4513">
+    <rect x="5" y="15" width="2" height="2" fill="#8B4513"/>
+    <rect x="6" y="14" width="1" height="1" fill="#8B4513"/>
+    <rect x="6" y="17" width="1" height="1" fill="#8B4513"/>
+  </g>
+  
+  <!-- 우측 장식 문양 -->
+  <g fill="#8B4513">
+    <rect x="25" y="15" width="2" height="2" fill="#8B4513"/>
+    <rect x="25" y="14" width="1" height="1" fill="#8B4513"/>
+    <rect x="25" y="17" width="1" height="1" fill="#8B4513"/>
+  </g>
+  
+  <!-- 동전 테두리 광택 효과 -->
+  <circle cx="16" cy="16" r="14" fill="none" stroke="url(#goldGradient)" stroke-width="0.5" opacity="0.7"/>
+  
+  <!-- 그라데이션 정의 -->
+  <defs>
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#B8860B;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>
