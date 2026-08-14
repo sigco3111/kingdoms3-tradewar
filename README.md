@@ -11,7 +11,11 @@
 
 **핵심 컨셉:** 플레이어는 삼국시대의 상인이 되어, 여러 AI 세력들이 패권을 다투는 혼란 속에서 활동합니다. 직접적인 군사 통제 대신, 플레이어는 교묘한 교역, 시의적절한 투자, 대담한 금융 전술, 세력 간의 전쟁 지원, 지역 영향력 구축 및 첩보 활동, 세력 관계 관리, 상인 평판 시스템, 동적 경제 이벤트, 세력 임무 시스템, 특화 건물 및 세력 정책 투자 등을 통해 막대한 부를 쌓는 것을 목표로 합니다. 게임은 AI 세력 중 하나가 천하를 통일하면 종료되며, 플레이어의 최종 자산이 성공의 척도가 됩니다.
 
-실행 주소 : https://dev-canvas-pi.vercel.app/
+라이브 데모 : https://sigco3111.github.io/kingdoms3-tradewar/
+
+[![Live](https://img.shields.io/badge/Live-GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://sigco3111.github.io/kingdoms3-tradewar/)
+
+> **호스팅 이력**: 본 프로젝트는 Vercel에서 운영되었으나 2026-08에 GitHub Pages로 전환했습니다. README 일부 본문/뱃지에서 Vercel 흔적이 남아있을 수 있으나 공식 라이브 데모는 위 Pages URL입니다.
 
 ## 주요 특징
 
